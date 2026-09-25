@@ -5,8 +5,7 @@ A simple Python command-line application that measures typing speed and characte
 The project focuses on practicing Python fundamentals such as functions, lists, loops, string operations, random selection, user input, and time-based calculations.
 
 ## 🎥 Preview
-
-https://github.com/dheerajmishra75/Typing-Speed-Tester/blob/1bd6d439b1516cc1fe38789401b864ce300a7be6/Preview_video/Typing%20Speed%20Tester.mp4
+(./Preview_video/Typing%20Speed%20Tester.mp4)
 
 The preview demonstrates the terminal-based typing test, user input process, and final typing performance results.
 
