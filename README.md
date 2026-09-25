@@ -6,7 +6,7 @@ The project focuses on practicing Python fundamentals such as functions, lists, 
 
 ## 🎥 Preview
 
-Preview_video/Typing Speed Tester.mp4
+https://github.com/dheerajmishra75/Typing-Speed-Tester/blob/1bd6d439b1516cc1fe38789401b864ce300a7be6/Preview_video/Typing%20Speed%20Tester.mp4
 
 The preview demonstrates the terminal-based typing test, user input process, and final typing performance results.
 
